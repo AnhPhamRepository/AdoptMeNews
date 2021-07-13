@@ -1,0 +1,67 @@
+{
+   "currentmaps":[
+      {
+         "image":"https://raw.githubusercontent.com/AnhPhamRepository/RobloxMaps/master/currentmap1.JPG",
+         "name":"INTRODUCTION",
+         "info":"Adopt Me is a roleplay game made by DreamCraft and can be considered a spiritual successor to Adopt and Raise a Baby!. The game features two parties, a baby and a parent. The parent must care for the baby. There are other features, like obbies, pets and customizable houses.\nOn May 4, 2019, the game reached 1 billion place visits, making it the 7th game to surpass that mark.\nThe following interview was between Thundermaker300 and NewFissy on , as part of the Developer Connections Project..\nWhat was it like developing Adopt Me?It's a lot of fun! Adopt Me is an enjoyable creative and technical challenge for both me and my co-creator Bethink. It's been an immense growth opportunity as well and has definitely pushed my programming to the next level. The great thing about working on a roleplay game is that there are limitless features you can add, since roleplay is pretty much a simulation of the real world.What challenges did you have to overcome while developing? What was the most challenging?\nWe're constantly adding new features, but a lot of times that means our existing codebase doesn't have the capabilities we need to support the new stuff. We've rewritten our code 3-4 times now. And we're working through a major rewrite of our avatar system right now. When working with a codebase with 50,000+ lines of code, it can be difficult to make broad-sweeping changes, so we build automated tools and macros to rewrite and refactor our code. The biggest issue that we ran into is that many of our favorite tools don't work within Roblox Studio, so we needed a way to sync our code to the filesystem so we could use the full suite of tools. To solve this issue, we built a program called Rosync that does a snapshot sync to the filesystem so the code can be manipulated with traditional tools like git and vim macros.\nWhat did you enjoy most while developing Adopt Me?\nI have and always will be a software engineer at heart. I do enjoy the creative aspect of game dev like dreaming up new items and designing UIs, but nothing beats the feeling of hitting Play and your beautifully architected code that abstracts complexity into simple units works perfectly.\nIs there anything else you'd like to share?\nI've been working on Roblox for nearly a decade, and it's been incredible to see the platform grow from my childhood sandbox to this mainstream platform that's conquering the world. Keep it up Roblox!"
+      }
+   ],
+   "brickbattlemaps":[
+      {
+         "image":"https://raw.githubusercontent.com/AnhPhamRepository/RobloxMaps/master/brickbattlemaps1.JPG",
+         "name":"GAME PLAY",
+         "info":"Both teams spawn in their house, which they can customize to their heart's content. Babies and parents can ask (not request) nearby players to be a part of their family them by pressing [E] on a computer or tablet, or [click to send request] on a mobile. Or they can create their own family by going to the family GUI and then clicking 'Create Family'.\nWhen a baby or a parent accepts a player invite to be their family, both the baby and the parent will have a GUI. If there are multiple babies in the family, the baby that was held first's GUI's will show up for the parent. That GUI is for the baby's needs. There are four of these needs the parent must tend to, otherwise, the baby will be unhappy. These needs are represented as bars, slowly shrinking as time passes. The lower the GUI of the baby is, the lower the daily paycheck the parent will receive. The four needs are:\n   1. Hunger - How hungry the baby or pet is, can be increased by feeding formula, food from the supermarket or Ramsay's Pizzeria.\n   2. Fun - How active the baby or pet is, can be increased by going to the park or shaking rattles.\n   3. Cleanliness - How clean the baby or pet is, can be increased by swimming or taking a shower in a house or in the Gym.\n   4. Sleepiness - How tired the baby is, can only be increased by placing the baby in the bed.\n   After the pets update, players can adopt pets, including basic ones likes dog and cats, or rare pets such as wolves, griffins, unicorns, etc. Pets have the same moods as babies and they can be taught tricks by the pet trainer at the school. Babies cannot hold pets or put pets in strollers, but parents can.\n   There is an in-game currency called money, which can be used to buy strollers, toys, pet supplies, furniture, etc. As a baby, you gain money by having your parent take care of you. As a parent, you gain money by taking care of your baby.\nCRITICISM & TRIVIA\nCRITICISM\nSome people have criticized this game for being too similar to games such as Life in Paradise and Adopt and Raise a Cute Kid[citation needed]. It is also criticized because of how frequent online daters join this game[citation needed]. It's also been hated due to a “cannibalistic” thumbnail that has since been taken down[citation needed].\nTRIVIA\nAdopt Me! was mainly updated in the Family Update, which caused it to stay in the Popular Page on Roblox."
+      }
+   ],
+   "reskinnedmaps":[
+      {
+         "image":"https://raw.githubusercontent.com/AnhPhamRepository/RobloxMaps/master/reskinnedmaps1.JPG",
+         "name":"FREE MONEY TO BUY PETS",
+         "info":""
+      },
+      {
+         "image":"https://raw.githubusercontent.com/AnhPhamRepository/RobloxMaps/master/reskinnedmaps2.JPG",
+         "name":"ADOPT ME: GET ALL PETS LIST",
+         "info":""
+      },
+	  {
+         "image":"https://raw.githubusercontent.com/AnhPhamRepository/RobloxMaps/master/reskinnedmaps3.JPG",
+         "name":"ADOPT ME: BIGGER HOUSE",
+         "info":""
+      },
+	  {
+         "image":"https://raw.githubusercontent.com/AnhPhamRepository/RobloxMaps/master/reskinnedmaps4.JPG",
+         "name":"ADOPT ME: TRADING",
+         "info":""
+      },
+	  {
+         "image":"https://raw.githubusercontent.com/AnhPhamRepository/RobloxMaps/master/reskinnedmaps5.JPG",
+         "name":"ADOPT ME: EGGS",
+         "info":""
+      },
+	  {
+         "image":"https://raw.githubusercontent.com/AnhPhamRepository/RobloxMaps/master/reskinnedmaps6.JPG",
+         "name":"HOW TO RIDE A PET?",
+         "info":""
+      },
+	  {
+         "image":"https://raw.githubusercontent.com/AnhPhamRepository/RobloxMaps/master/reskinnedmaps7.JPG",
+         "name":"ADOPT ME: MALL JOURNEY",
+         "info":""
+      }
+   ],
+   "removedmaps":[
+      {
+         "image":"https://raw.githubusercontent.com/AnhPhamRepository/RobloxMaps/master/removedmaps1.JPG",
+         "name":"PRIVACY POLICY",
+         "info":"Karanggeneng built the Best Guide Adobt Me 2019 app free. This SERVICE is provided by Karanggeneng at no cost and is intended for use as is.\nThis page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.\nIf you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that We collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.\nThe terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Karanggeneng unless otherwise defined in this Privacy Policy.\nInformation Collection and Use\nFor a better experience, while using our Service, We may require you to provide us with certain personally identifiable information[add whatever else you collect here, e.g. users name, address, location, pictures] The information that We request will be [retained on your device and is not collected by [me/us] in any way]/[retained by us and used as described in this privacy policy].\nThe app does use third party services that may collect information used to identify you.\nLink to privacy policy of third party service providers used by the app\nGoogle Play Services\nAdMob\nFirebase Analytics\nFacebook\nFabric\nCrashlytics\nMatomo\nClicky\nLog Data\nwe want to inform you that whenever you use our Service, in a case of an error in the app We collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing [my/our] Service, the time and date of your use of the Service, and other statistics.\nCookies\nCookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.\nThis Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.\nService Provider\nWe may employ third-party companies and individuals due to the following reasons:\nTo facilitate our Service;"
+      }
+   ],
+   "murdermaps":[
+      {
+         "image":"https://raw.githubusercontent.com/AnhPhamRepository/RobloxMaps/master/murdermaps1.JPG",
+         "name":"OFFICE",
+         "info":"General Information: \n   Office is the first map to be added in MURDER. This map takes place around an office complex with parking areas outside of the building during the winter season. There are containers, a ladder and stairways around the map that can lift and leads the player inside the office.\nThere's also a parked van reflected through the window at the terrorists' spawn.\nThis map is taken from Counter Blox."
+      }
+   ]
+}
